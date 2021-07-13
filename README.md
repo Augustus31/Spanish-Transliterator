@@ -1,4 +1,4 @@
-# spanishTransliterator
+# Spanish Transliterator
 Spanish Transliterator for easy typing of special characters.
 
 "Spanish Transliterator.zip" and "Spanish Transliterator v2.zip" contain executables.
