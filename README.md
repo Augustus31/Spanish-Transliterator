@@ -1,4 +1,7 @@
 # Spanish Transliterator
+
+WARNING: THIS VERSION IS DEPRECATED FOR JDK/JRE 11+. FOR AN UPDATED VERSION, GO TO https://github.com/Augustus31/Easy-Language-Keyboards
+
 Spanish Transliterator for easy typing of special characters.
 
 "Spanish Transliterator.zip" and "Spanish Transliterator v2.zip" contain executables.
